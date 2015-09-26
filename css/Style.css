@@ -1,0 +1,25 @@
+
+
+/*IDs*/
+#container		{width: 80%; margin-left: auto; margin-right: auto; background-color: #EFEFEF}
+
+#inner			{width: 60%; margin-right: auto; margin-left: auto; padding-top: 80px}
+
+
+
+/*Classes*/
+
+
+.titles			{ border-right: 2px solid #cccccc; padding-right: 40px; width: 7%; float: left; height: 80px;}
+
+.description	{ width: 80%; float: right; }
+
+.item			{ margin-bottom: 10px; width: 540px; margin:auto }
+
+.clearing		{ clear: both; display:block}
+
+.topname		{ border-bottom: solid 2px #333}
+
+.profile_pic	{ width: 13%; padding: 7px; border: 1px #cccccc solid; float: right; position:absolute; margin-left: 32%; margin-top: 2%; background-color: #fff}
+
+.objectives		{ width: 400px}
